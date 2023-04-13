@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c49ef4fc.css",
+    "main.js": "/static/js/main.83442420.js",
+    "static/js/787.54003843.chunk.js": "/static/js/787.54003843.chunk.js",
+    "static/media/mesh-gradient.png": "/static/media/mesh-gradient.8d3011a94041c27c9f98.png",
+    "static/media/undraw_online_article_re_daq5.svg": "/static/media/undraw_online_article_re_daq5.261c1689cf89f05cd9e5ba96932912a3.svg",
+    "index.html": "/index.html",
+    "main.c49ef4fc.css.map": "/static/css/main.c49ef4fc.css.map",
+    "main.83442420.js.map": "/static/js/main.83442420.js.map",
+    "787.54003843.chunk.js.map": "/static/js/787.54003843.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49ef4fc.css",
+    "static/js/main.83442420.js"
+  ]
+}

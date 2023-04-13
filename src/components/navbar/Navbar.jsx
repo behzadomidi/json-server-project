@@ -10,7 +10,7 @@ const NavbarComponent = () => {
         <Container>
           <Navbar.Brand>
             <Link className="link-light text-decoration-none" to="/">
-              Swr Project
+              Ui Project
             </Link>
           </Navbar.Brand>
           <Nav className="me-auto">
